@@ -1,0 +1,31 @@
+{
+    "name": "jinowom/yii2-phpqrcode",
+    "description": "YIi2扩展：二维码生成组件",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "charles",
+            "email": "chareler@163.com"
+        },
+        {
+            "name": "Dominik Dzienia",
+            "homepage": "http://sourceforge.net/projects/phpqrcode/"
+        },
+        {
+            "name": "jinowom",
+            "homepage": "https://github.com/jinowom"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
+    "autoload": {
+        "psr-4": {
+            "jinowom\\yii2-phpqrcode\\": ""
+        }
+    },
+    "keywords": [
+        "Qrcode","yii2-phpqrcode","PHPQrcode","qrcode-generator"
+    ]
+}
